@@ -1,0 +1,10 @@
+Discipline
+Does your code work?
+Reduce cyclomatic complexity
+Code is used before delivery
+Documentation
+Safe to modify
+Enforce DI pattern
+Code coverage
+Performance
+Continuous integration (CI)

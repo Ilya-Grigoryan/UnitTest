@@ -1,0 +1,3 @@
+dotnet new classlib -n Math
+dotnet build
+dotnet new xunit -n MathTest
